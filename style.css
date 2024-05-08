@@ -76,4 +76,5 @@ li:hover{
     color: var(--Dark-Grey);
     cursor: pointer;
     font-weight: 600;
+    cursor: url('assets/images/cursor.png'),auto;
 }
